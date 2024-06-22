@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Banikhalaf</h1>
 <h3 align="center">A junior cybersecurity analyst and Qa software testing automation and manual</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/><br>
+
 - 🌱 I’m currently learning A soc analyst
 
 - 📫 How to reach me : mustafabanikhalaf772@gmail.com
