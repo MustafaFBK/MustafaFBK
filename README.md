@@ -6,7 +6,7 @@
 
 - 📫 How to reach me mustafabanikhalaf772@gmail.com
 
-- 📄 Know about my experiences in my [Portfolio](https://mustafafbk.github.io/)
+- 📄 Know about my experiences in [Portfolio](https://mustafafbk.github.io/)
 
 - ⚡ Fun fact **Networking is my fun**
 
