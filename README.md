@@ -6,7 +6,7 @@
 
 - 📫 How to reach me mustafabanikhalaf772@gmail.com
 
-- 📄 Know about my experiences [https://anime-fanart.my.canva.site/mustafabanikhalaf](https://anime-fanart.my.canva.site/mustafabanikhalaf)
+- 📄 Know about my experiences in my [Portfolio](https://mustafafbk.github.io/)
 
 - ⚡ Fun fact **Networking is my fun**
 
