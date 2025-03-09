@@ -1,5 +1,3 @@
-modify these md file to be updates with me : 
-
 ![MasterHead](https://www.uni.lu/wp-content/uploads/sites/4/2024/02/AdobeStock_606565918-scaled.jpeg)
 <h1 align="center">Hi 👋, I'm Mustafa Banikhalaf</h1>
 <h3 align="center">A junior cybersecurity analyst and Qa software testing automation and manual</h3>
