@@ -1,13 +1,9 @@
 ![MasterHead](https://www.uni.lu/wp-content/uploads/sites/4/2024/02/AdobeStock_606565918-scaled.jpeg)
-<h1 align="center">Hi 👋, I'm Mustafa Banikhalaf</h1>
+<h1 align="center">Hi 👋, I'm 0xmfbk</h1>
 <h3 align="center">Cybersecurity Engineer | Penetration Tester | Red Teamer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/><br>
 
 - 🌱 I’m currently learning : Advanced Penetration Testing and Red Teaming techniques
-
-- 📫 How to reach me : mustafabanikhalaf772@gmail.com
-
-- 📄 Know about my experiences : [Portfolio](https://mustafafbk.github.io/)
 
 - ⚡ Fun fact : **I enjoy networking and solving complex security challenges.**
 
