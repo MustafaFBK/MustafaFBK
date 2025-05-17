@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
 </div>
+<img align="right" alt="Cybersecurity GIF" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gzZW1zZzZkdGpsbGd0ODhqY3l5NDVzOGpxNmd0eTRvMXViNnU0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/200.webp" />
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
