@@ -9,12 +9,10 @@
 <h2 align="left">Hey 👋 What's up?</h2>
 
 ### About Me
-- 🌱 I'm currently learning: Advanced Penetration Testing and Red Teaming techniques  
-- ✨ Creating bugs since 2020  
-- 📚 I'm currently learning: Advanced methods in IoT security and digital forensics  
-- 🎯 Goals: To enhance security awareness and build impactful solutions to cyber threats  
-- ⚡ Fun fact: I enjoy networking and solving complex security challenges 
-
+- 🌱 Learning: Advanced Penetration Testing  
+- ✨ Started creating bugs: 2020  
+- 🎯 Goals: Build innovative security solutions  
+- ⚡ Fun fact: Passionate about solving cyber puzzles!
 
 ---
 
