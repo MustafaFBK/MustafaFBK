@@ -4,107 +4,131 @@
   <h3>Cybersecurity Engineer | Penetration Tester | Red Teamer</h3>
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" />
+
+<h2 align="left">Hey 👋 What's up?</h2>
+<p align="left">
+  My name is ... and I'm a ..., from ....
+</p>
+
+### About Me
+- 🌱 I'm currently learning: Advanced Penetration Testing and Red Teaming techniques  
+- ✨ Creating bugs since... (fill in your year)  
+- 📚 I'm currently learning ...  
+- 🎯 Goals: ...  
+- ⚡ Fun fact: I enjoy networking and solving complex security challenges  
+
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"/>
+### 🛠️ I Code With
 
-## 🌟 About Me
-🌱 **Currently learning**: Advanced Penetration Testing and Red Teaming techniques  
-✨ **Creating bugs since**: [Your starting year]  
-🎯 **Goals**: Mastering offensive security tools and techniques  
-⚡ **Fun Fact**: I enjoy solving intricate puzzles, both in code and in life!  
-
----
-
-## 💻 I Code With
-
-<div align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+#### JavaScript Ecosystem
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-
-  <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
+</div>
 
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="SSH" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+#### Programming Languages
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala" />
 </div>
 
 ---
 
-## 🚀 Socials & Contact
-<p align="left">
-  <a href="https://linkedin.com/in/[YourLinkedInProfile]" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
-  <a href="https://github.com/[YourGitHubProfile]" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /></a>
-</p>
-<!-- Databases & Testing Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+#### Databases
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+</div>
+
+#### DevOps & Cloud
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+</div>
+
+---
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
 </div>
 
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xmfbk&show_icons=true&theme=radical" alt="0xmfbk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfbk&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<h2 align="left">🌍 Connect with Me</h2>
+<h2 align="left">Reach Me</h2>
 <p align="left">
-  <a href="https://twitter.com/yourtwitterhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" /></a>
-  <a href="https://linkedin.com/in/yourlinkedinprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" /></a>
-  <a href="https://github.com/0xmfbk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" /></a>
-  <a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" /></a>
-</p>
-
-<h2 align="left">🎮 Hobbies & Interests</h2>
-<ul>
-  <li>👾 Exploring new hacking techniques</li>
-  <li>🎧 Listening to music while solving security puzzles</li>
-  <li>📚 Reading tech blogs and cybersecurity news</li>
-  <li>🧩 Playing strategic video games</li>
-  <li>🏋️ Fitness enthusiast</li>
-</ul>
-
-<h2 align="left">🏆 Certifications & Achievements</h2>
-<ul>
-  <li>🌐 CISSP (Certified Information Systems Security Professional)</li>
-  <li>🔐 OSCP (Offensive Security Certified Professional)</li>
-  <li>🛡️ CEH (Certified Ethical Hacker)</li>
-  <li>🏅 CCNP Security</li>
-  <li>📜 Published articles in cybersecurity journals</li>
-</ul>
-
-<div align="center">
-  <h2>💡 Thank you for visiting my profile! 💡</h2>
-  <p>Feel free to reach out or explore my repositories!</p>
+  💬 Have questions or just want to chat? Reach out to me on:
+  <br />
   <a href="https://github.com/0xmfbk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-green?style=for-the-badge&logo=github" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-</div>
+  <a href="https://twitter.com/0xmfbk" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Badge" />
+  </a>
+  <a href="https://linkedin.com/in/0xmfbk" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:0xmfbk@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+</p>
+
+<h2 align="left">Projects & Open Source Contributions</h2>
+<ul>
+  <li><strong>Project Name:</strong> <em>Description of the project and its purpose</em></li>
+  <li><strong>Open Source:</strong> <em>Details about your contributions to open source projects</em></li>
+  <li><strong>Notable Achievements:</strong> <em>Summarize significant outcomes or innovations</em></li>
+</ul>
+
+<h2 align="left">Stats & Analytics</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xmfbk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmfbk&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<h2 align="left">Community Work</h2>
+<p align="left">
+  I love sharing knowledge and contributing to the tech community! I'm actively involved in:
+  <ul>
+    <li><strong>Local Meetups:</strong> Participating in and hosting sessions on cybersecurity and technology</li>
+    <li><strong>Mentorship:</strong> Helping aspiring cybersecurity enthusiasts through structured programs</li>
+    <li><strong>Workshops:</strong> Conducting hands-on workshops on penetration testing and system hardening</li>
+  </ul>
+</p>
+
+<h2 align="left">Hobbies</h2>
+<p align="left">When I'm not coding or securing networks, you can find me:</p>
+<ul>
+  <li>Exploring the latest cybersecurity trends</li>
+  <li>Building custom tools for ethical hacking</li>
+  <li>Playing strategy games or solving puzzles</li>
+</ul>
+
+<footer>
+  <p align="center">
+    <strong>Connect with me for collaboration or just to say hi!</strong>
+  </p>
+</footer>
