@@ -7,16 +7,14 @@
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" />
 
 <h2 align="left">Hey 👋 What's up?</h2>
-<p align="left">
-  My name is ... and I'm a ..., from ....
-</p>
 
 ### About Me
 - 🌱 I'm currently learning: Advanced Penetration Testing and Red Teaming techniques  
-- ✨ Creating bugs since... (fill in your year)  
-- 📚 I'm currently learning ...  
-- 🎯 Goals: ...  
-- ⚡ Fun fact: I enjoy networking and solving complex security challenges  
+- ✨ Creating bugs since 2020  
+- 📚 I'm currently learning: Advanced methods in IoT security and digital forensics  
+- 🎯 Goals: To enhance security awareness and build impactful solutions to cyber threats  
+- ⚡ Fun fact: I enjoy networking and solving complex security challenges 
+
 
 ---
 
