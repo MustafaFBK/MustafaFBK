@@ -87,7 +87,6 @@
     <li><strong>Workshops:</strong> Conducting hands-on workshops on penetration testing and system hardening</li>
   </ul>
 </p>
-<img align="right" alt="Cybersecurity GIF" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gzZW1zZzZkdGpsbGd0ODhqY3l5NDVzOGpxNmd0eTRvMXViNnU0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.webp" />
 
 <h2 align="left">Hobbies</h2>
 <p align="left">When I'm not coding or securing networks, you can find me:</p>
