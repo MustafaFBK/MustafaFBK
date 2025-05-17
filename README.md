@@ -80,7 +80,7 @@
 <img align="right" alt="Cybersecurity GIF" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gzZW1zZzZkdGpsbGd0ODhqY3l5NDVzOGpxNmd0eTRvMXViNnU0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.webp" />
 
 <h2 align="left">Community Work</h2>
-<p>
+<p align="left">
   I love sharing knowledge and contributing to the tech community! I'm actively involved in:
   <ul>
     <li><strong>Local Meetups:</strong> Participating in and hosting sessions on cybersecurity and technology</li>
