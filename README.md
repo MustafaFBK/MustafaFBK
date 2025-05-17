@@ -93,7 +93,7 @@
   <li>Building custom tools for ethical hacking</li>
   <li>Playing strategy games or solving puzzles</li>
 </ul>
-
+<img align="right" alt="Cybersecurity GIF" width="250" src="[https://media.giphy.com/media/3o7aD4rEN3rxmOJrwc/giphy.gif (https://media2.giphy.com/media/kJ1iL1ZQIyibu/200.webp?cid=ecf05e479cp4ohxgky05xkcodbouaolzwtlc8j6uidvr4wke&ep=v1_gifs_search&rid=200.webp&ct=g)" />
 <footer>
   <p align="center">
     <strong>Connect with me for collaboration or just to say hi!</strong>
