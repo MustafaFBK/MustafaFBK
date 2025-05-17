@@ -68,6 +68,7 @@
   <li><strong>Open Source:</strong> <em>Details about your contributions to open source projects</em></li>
   <li><strong>Notable Achievements:</strong> <em>Summarize significant outcomes or innovations</em></li>
 </ul>
+<img align="right" alt="Cybersecurity GIF" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gzZW1zZzZkdGpsbGd0ODhqY3l5NDVzOGpxNmd0eTRvMXViNnU0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4UzW8S83pWoKs/200.webp" />
 
 <h2 align="left">Stats & Analytics</h2>
 <p align="left">
